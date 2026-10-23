@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-label="Horizon Academic">
+  <rect width="48" height="48" rx="13" fill="#753DE7"/>
+  <path d="M8.5 28.5h31" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M15.25 28.5a8.75 8.75 0 0 1 17.5 0" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M24 10.5v4M11.8 15.4l2.8 2.8M36.2 15.4l-2.8 2.8" stroke="#E9DAFF" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M13.5 35.5h21" stroke="#E9DAFF" stroke-width="2.2" stroke-linecap="round"/>
+</svg>

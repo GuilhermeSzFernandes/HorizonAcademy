@@ -1,0 +1,11 @@
+{
+  "name": "horizon-academic",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check public/app.js && node --check public/estado.js && node --check public/componentes.js && node --check public/atividades.js && node --check public/estudos.js && node --check public/turmas.js && node --check public/calendario.js && node --check public/painel.js && node --check public/paginas-publicas.js && node --check public/telas.js && node --check public/formularios.js && node --check public/acoes.js && node --check public/envios.js && node --check public/navegacao.js && node --check public/data.js && node --check public/domain.js"
+  }
+}

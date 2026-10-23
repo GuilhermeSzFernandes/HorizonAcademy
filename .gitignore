@@ -1,0 +1,15 @@
+dist/
+node_modules/
+.vercel/
+.qa/
+tmp/
+output/
+/scripts/
+
+.env*
+!.env.example
+
+/*.md
+!/README.md
+/premium*.json
+*.pdf
